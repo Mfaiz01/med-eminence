@@ -1,0 +1,124 @@
+{
+  "header": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive healthcare coordination and travel support for international patients",
+    "breadcrumbHome": "Home",
+    "breadcrumbCurrent": "Our Services"
+  },
+
+  "intro": {
+    "tag": "Our Services",
+    "title": "Our Services",
+    "desc": "MedEminence provides structured coordination and logistical support for international patients seeking treatment in India. Our focus is on facilitating access to accredited hospitals and licensed medical professionals while managing non-medical aspects of your healthcare journey."
+  },
+
+  "services": {
+    "caseReview": {
+      "title": "Medical Case Review Coordination",
+      "desc": "We assist patients in securely sharing medical reports and treatment requirements with appropriate hospitals and licensed specialists for review."
+    },
+    "hospitalMatching": {
+      "title": "Hospital & Specialist Identification",
+      "desc": "Based on the patient's medical needs, we coordinate with accredited hospitals and qualified medical professionals."
+    },
+    "costEstimation": {
+      "title": "Travel Planning Support",
+      "desc": "Assistance with flight planning, airport transfers, and local transportation related to treatment travel."
+    },
+    "visa": {
+      "title": "Accommodation Coordination",
+      "desc": "Support in arranging accommodation near hospitals for patients and accompanying family members."
+    },
+    "travel": {
+      "title": "Local Assistance During Stay",
+      "desc": "On-ground coordination including hospital navigation assistance and logistical support."
+    },
+    "care": {
+      "title": "Post-Treatment Follow-Up Coordination",
+      "desc": "Assistance with sharing medical reports and coordinating follow-up consultations after discharge."
+    },
+    "language": {
+      "title": "Language Support (Subject to Availability)",
+      "desc": "Language assistance may be arranged upon request, depending on location and availability."
+    },
+    "followUp": {
+      "title": "Service Fees Information",
+      "desc": "MedEminence charges a separate service fee for non-medical coordination and support. This fee covers logistical and travel-related assistance only and does not include medical treatment costs."
+    },
+    "local": {
+      "title": "Medical Costs Clarification",
+      "desc": "All medical treatment costs are paid directly to the hospital by you and are determined solely by the healthcare provider."
+    }
+  },
+
+  "process": {
+    "tag": "How MedEminence Works",
+    "title": "How MedEminence Works",
+    "desc": "Our structured coordination process focuses on facilitating access to healthcare while maintaining clear separation from clinical decision-making.",
+    "steps": {
+      "one": {
+        "title": "Medical Information Submission",
+        "desc": "Patients securely share medical reports and treatment requirements through our enquiry form."
+      },
+      "two": {
+        "title": "Case Review Coordination",
+        "desc": "Medical details are shared with appropriate partner hospitals and specialists for evaluation."
+      },
+      "three": {
+        "title": "Treatment Pathway & Travel Support",
+        "desc": "We assist with treatment planning logistics, travel coordination, and accommodation near hospitals."
+      },
+      "four": {
+        "title": "Care Coordination & Follow-Up Support",
+        "desc": "On-ground assistance during treatment and coordination of post-treatment follow-up communication."
+      }
+    }
+  },
+
+  "cta": {
+    "tag": "Take The First Step",
+    "title": "Ready for Coordinated Healthcare Access?",
+    "desc": "Share your medical information for structured coordination with accredited hospitals and licensed medical professionals in India.",
+    "primary": "Submit Medical Enquiry",
+    "secondary": "Contact Our Team"
+  },
+
+  "whyServices": {
+    "title": "Our Coordination Commitment",
+    "points": [
+      "Structured healthcare facilitation services",
+      "Coordination with accredited hospitals",
+      "Transparent non-clinical support model",
+      "Clear separation from medical decision-making",
+      "Focus on logistical and travel assistance"
+    ]
+  },
+
+  "faq": {
+    "tag": "Service Information",
+    "title": "Service Details & Coordination",
+    "items": [
+      {
+        "q": "What is included in the service fee?",
+        "a": "The service fee covers non-medical coordination and logistical support only. Medical treatment costs are separate and paid directly to hospitals."
+      },
+      {
+        "q": "How are hospitals and specialists selected?",
+        "a": "We coordinate with hospitals and specialists that meet recognized accreditation, regulatory, and professional standards."
+      },
+      {
+        "q": "Who makes medical treatment decisions?",
+        "a": "All clinical decisions, treatment plans, and medical outcomes are determined exclusively by licensed healthcare providers."
+      },
+      {
+        "q": "What role does MedEminence play during treatment?",
+        "a": "We act as a non-clinical intermediary, providing coordination and logistical support while medical care is delivered by healthcare providers."
+      },
+      {
+        "q": "How is patient information handled?",
+        "a": "All patient information is handled confidentially and disclosed only to authorized healthcare providers for care coordination purposes."
+      }
+    ],
+    "contact": "Contact Us for Service Details"
+  }
+}

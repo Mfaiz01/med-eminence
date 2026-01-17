@@ -1,0 +1,33 @@
+{
+  "phone": "+91-9886457844",
+  "email": "info@medeminence.com",
+
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Our Services",
+    "treatments": "Treatments",
+    "more": "More",
+    "countries": "Countries We Support",
+    "why": "Why Choose MedEminence",
+    "journey": "Patient Journey",
+    "enquiry": "Medical Enquiry",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "contact": "Contact Us"
+  },
+
+  "footer": {
+    "getInTouch": "Get In Touch",
+    "tagline": "A medical tourism facilitation platform supporting coordinated access to healthcare.",
+    "quickLinks": "Quick Links",
+    "importantLinks": "Important Links",
+    "newsletter": "Newsletter",
+    "newsletterText": "Subscribe for updates related to medical tourism coordination.",
+    "emailPlaceholder": "Your Email Address",
+    "subscribe": "Subscribe",
+    "followUs": "Follow Us",
+    "copyright": "All Rights Reserved.",
+    "designedBy": "Designed by"
+  }
+}

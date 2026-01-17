@@ -1,0 +1,177 @@
+{
+  "header": {
+    "title": "Treatments We Coordinate Access To",
+    "subtitle": "Facilitating access to specialized medical care through accredited hospitals and licensed professionals",
+    "breadcrumbHome": "Home",
+    "breadcrumbCurrent": "Treatments"
+  },
+
+  "intro": {
+    "tag": "Treatments",
+    "title": "Treatments We Coordinate Access To",
+    "desc": "MedEminence coordinates access to various medical specialties through partner hospitals in India. Treatment availability depends on hospital capability, medical suitability, and applicable regulatory requirements."
+  },
+
+  "cards": {
+    "cardiology": {
+      "title": "Cardiology & Cardiac Surgery",
+      "desc": "Coordination for heart-related treatments and surgical interventions.",
+      "points": [
+        "Consultation coordination",
+        "Hospital identification",
+        "Procedure planning support"
+      ],
+      "icon": "fa-heartbeat"
+    },
+    "orthopedics": {
+      "title": "Orthopedics & Joint Replacement",
+      "desc": "Coordination for bone, joint, and musculoskeletal treatments.",
+      "points": [
+        "Specialist coordination",
+        "Hospital assessment",
+        "Rehabilitation planning"
+      ],
+      "icon": "fa-bone"
+    },
+    "oncology": {
+      "title": "Oncology & Hematology",
+      "desc": "Coordination for cancer care and blood disorder treatments.",
+      "points": [
+        "Multidisciplinary coordination",
+        "Treatment pathway planning",
+        "Follow-up coordination"
+      ],
+      "icon": "fa-stethoscope"
+    },
+    "neurology": {
+      "title": "Neurology & Neurosurgery",
+      "desc": "Coordination for brain and nervous system treatments.",
+      "points": [
+        "Specialist matching",
+        "Hospital facility coordination",
+        "Post-treatment support"
+      ],
+      "icon": "fa-brain"
+    },
+    "nephrology": {
+      "title": "Nephrology & Urology",
+      "desc": "Coordination for kidney and urinary system treatments.",
+      "points": [
+        "Nephrology center coordination",
+        "Treatment pathway support",
+        "Follow-up arrangement"
+      ],
+      "icon": "fa-kidneys"
+    },
+    "fertility": {
+      "title": "Fertility & Reproductive Medicine",
+      "desc": "Coordination for assisted reproductive technologies and fertility treatments.",
+      "points": [
+        "Fertility center coordination",
+        "Consultation arrangement",
+        "Logistical support"
+      ],
+      "icon": "fa-baby"
+    },
+    "dental": {
+      "title": "Dental Care & Oral Surgery",
+      "desc": "Coordination for dental treatments and oral surgical procedures.",
+      "points": [
+        "Dental clinic coordination",
+        "Procedure scheduling",
+        "Recovery support"
+      ],
+      "icon": "fa-tooth"
+    },
+    "ayurveda": {
+      "title": "Ayurveda & Integrative Medicine",
+      "desc": "Coordination for traditional and integrative medicine approaches.",
+      "points": [
+        "Wellness center coordination",
+        "Treatment planning",
+        "Accommodation support"
+      ],
+      "icon": "fa-leaf"
+    },
+    "gastroenterology": {
+      "title": "Gastroenterology",
+      "desc": "Coordination for digestive system treatments and procedures.",
+      "points": [
+        "Gastroenterology coordination",
+        "Endoscopy facility support",
+        "Treatment planning"
+      ],
+      "icon": "fa-stomach"
+    }
+  },
+
+  "additional": {
+    "general": {
+      "title": "Medical Coordination Services",
+      "desc": "Our role focuses on coordinating access to medical care through accredited healthcare providers.",
+      "points": [
+        "Medical case review coordination",
+        "Hospital and specialist identification",
+        "Travel and accommodation planning",
+        "Local assistance during stay",
+        "Post-treatment follow-up coordination",
+        "Clear separation from clinical decisions"
+      ]
+    },
+    "others": {
+      "title": "Coordination Scope",
+      "desc": "We facilitate access to various medical specialties while maintaining our non-clinical intermediary role.",
+      "points": [
+        "Coordination with accredited hospitals",
+        "Facilitation of medical reviews",
+        "Logistical and travel support",
+        "Non-medical assistance",
+        "Communication coordination",
+        "Post-treatment follow-up"
+      ],
+      "note": "Treatment availability depends on hospital capability, medical suitability, and applicable regulatory requirements."
+    }
+  },
+
+  "cta": {
+    "tag": "Treatment Coordination",
+    "title": "Start Your Medical Coordination Journey",
+    "desc": "Share your medical information for structured coordination with appropriate healthcare providers.",
+    "primary": "Submit Medical Enquiry",
+    "secondary": "Contact Our Team"
+  },
+
+  "benefits": {
+    "title": "Our Coordination Approach",
+    "points": [
+      "Structured healthcare facilitation",
+      "Accredited hospital coordination",
+      "Transparent non-clinical support",
+      "Patient-focused communication",
+      "Clear role separation from medical providers"
+    ]
+  },
+
+  "process": {
+    "tag": "Coordination Process",
+    "title": "Our Treatment Coordination Process",
+    "steps": [
+      {
+        "title": "Medical Information Submission",
+        "desc": "Patients securely share medical reports and treatment requirements"
+      },
+      {
+        "title": "Case Review Coordination",
+        "desc": "Medical details are shared with appropriate partner hospitals for evaluation"
+      },
+      {
+        "title": "Treatment Pathway Planning",
+        "desc": "Assistance with treatment planning logistics and hospital coordination"
+      },
+      {
+        "title": "Coordination Support",
+        "desc": "Ongoing support during treatment and post-treatment follow-up coordination"
+      }
+    ]
+  }
+}

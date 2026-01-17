@@ -1,0 +1,122 @@
+{
+  "progress": {
+    "step1": "Patient Details",
+    "step2": "Medical Information",
+    "step3": "Review & Submit"
+  },
+
+  "success": {
+    "title": "Enquiry Submitted Successfully!",
+    "message": "Thank you for submitting your medical enquiry."
+  },
+
+  "form": {
+    "title": "Medical Enquiry Form",
+
+    "step1": {
+      "title": "Patient Information",
+      "subtitle": "Step 1 of 3",
+      "fields": {
+        "fullName": "Full Name",
+        "dob": "Date of Birth",
+        "gender": "Gender",
+        "male": "Male",
+        "female": "Female",
+        "phone": "Contact Number",
+        "email": "Email Address",
+        "country": "Country",
+        "referral": "How did you hear about us?"
+      },
+      "placeholders": {
+        "fullName": "Enter your full name",
+        "phone": "+012 345 6789",
+        "email": "your.email@example.com"
+      },
+      "buttons": {
+        "next": "Continue to Medical Information"
+      }
+    },
+
+    "step2": {
+      "title": "Medical Information",
+      "subtitle": "Step 2 of 3 - Tell us about your medical needs",
+
+      "department": {
+        "label": "Medical Department / Specialty",
+        "help": "Choose the department that best matches your concern",
+        "options": {
+          "cardiology": "Cardiology & Cardiac Surgery",
+          "orthopedics": "Orthopedics & Joint Replacement",
+          "oncology": "Oncology (Cancer Care)",
+          "neurology": "Neurology & Neurosurgery",
+          "ayurveda": "Ayurvedic Treatment",
+          "fertility": "Fertility & IVF",
+          "dental": "Dental Treatment",
+          "notSure": "Not Sure - Need Guidance"
+        }
+      },
+
+      "condition": {
+        "label": "Specific Condition",
+        "placeholder": "e.g., Heart valve disease, Knee arthritis"
+      },
+
+      "consultation": {
+        "label": "Consultation Preference",
+        "online": "Online Video Consultation",
+        "inPerson": "In-person Hospital Visit",
+        "both": "Either option works"
+      },
+
+      "history": {
+        "label": "Medical History Summary",
+        "hint": "Minimum 10 characters required"
+      },
+
+      "urgency": {
+        "label": "How Urgent is Your Medical Concern?",
+        "routine": "Routine (Within 1 week)",
+        "urgent": "Urgent (Within 48 hours)",
+        "emergency": "Emergency (Immediate)",
+        "notice": "For medical emergencies, visit the nearest hospital immediately."
+      },
+
+      "upload": {
+        "title": "Medical Documents",
+        "subtitle": "Upload medical reports and files",
+        "hint": "Max 10MB per file • Secure & encrypted"
+      },
+
+      "buttons": {
+        "back": "Back to Personal Details",
+        "next": "Review & Submit"
+      }
+    },
+
+    "step3": {
+      "title": "Final Review & Submission",
+      "subtitle": "Please review all information before submitting",
+
+      "personal": "Personal Information",
+      "medical": "Medical Information",
+
+      "consent": {
+        "privacyTitle": "Privacy Consent",
+        "privacyText": "I consent to MedEminence processing my medical data for consultation purposes.",
+        "communicationTitle": "Communication Consent",
+        "communicationText": "I agree to receive updates via email and phone."
+      },
+
+      "disclaimer": {
+        "title": "Important Medical Disclaimer",
+        "text": "This form does not replace emergency medical care."
+      },
+
+      "buttons": {
+        "edit": "Edit Information",
+        "submit": "Submit Medical Enquiry",
+        "submitting": "Submitting Enquiry..."
+      }
+    }
+  }
+}

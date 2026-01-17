@@ -1,0 +1,41 @@
+{
+  "header": {
+    "title": "Privacy Policy",
+    "subtitle": "Protecting your personal and medical information"
+  },
+  "title": "Privacy Policy",
+  "mainStatement": {
+    "title": "Our Privacy Commitment",
+    "content": "We implement appropriate technical and organizational safeguards inspired by globally recognized privacy standards to protect personal and medical information shared with us."
+  },
+  "principles": {
+    "security": {
+      "title": "Secure Data Handling",
+      "content": "All personal and medical information is protected with industry-standard security measures."
+    },
+    "confidentiality": {
+      "title": "Strict Confidentiality",
+      "content": "Information is shared only with authorized healthcare providers for care coordination purposes."
+    },
+    "standards": {
+      "title": "Global Standards",
+      "content": "Our safeguards are inspired by globally recognized privacy and security standards."
+    }
+  },
+  "additional": {
+    "title": "Important Information",
+    "points": {
+      "medical": "Medical information is used solely for healthcare coordination",
+      "consent": "We obtain consent for data processing as required",
+      "access": "Patients can request access to their information",
+      "security": "Regular security audits and updates",
+      "training": "Staff training on privacy protection",
+      "compliance": "Compliance with applicable privacy laws"
+    }
+  },
+  "contact": {
+    "title": "Privacy Contact",
+    "content": "For privacy-related inquiries, please contact us at:"
+  },
+  "footer": "This privacy policy is part of MedEminence's commitment to transparent and secure healthcare coordination."
+}

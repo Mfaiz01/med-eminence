@@ -1,0 +1,162 @@
+{
+  "header": {
+    "title": "Medical Enquiry Form",
+    "subtitle": "Securely share your medical reports and treatment requirements for coordinated healthcare access"
+  },
+  "progress": {
+    "step1": "Patient Details",
+    "step2": "Medical Information",
+    "step3": "Review & Submit"
+  },
+  "success": {
+    "title": "Medical Enquiry Submitted Successfully!",
+    "message": "Thank you for submitting your medical enquiry through our secure enquiry form. Our coordination team will review your medical information and contact you within 24 hours to discuss the next steps for case review coordination with partner hospitals."
+  },
+  "errors": {
+    "fullName": "Full Name is required",
+    "dob": "Date of Birth is required",
+    "gender": "Gender is required",
+    "phone": "Phone Number is required",
+    "email": "Email Address is required",
+    "country": "Country is required",
+    "medicalDepartment": "Medical Department/Specialty is required",
+    "medicalHistory": "Medical History (minimum 10 characters) is required",
+    "privacyConsent": "Privacy consent is required"
+  },
+  "form": {
+    "title": "Medical Enquiry Form",
+    "description": "Patients securely share medical reports and treatment requirements through our enquiry form. All patient information is handled confidentially and disclosed only to authorized healthcare providers strictly for care coordination purposes.",
+    
+    "common": {
+      "notProvided": "Not provided",
+      "notSpecified": "Not specified"
+    },
+
+    "step1": {
+      "title": "Patient Information",
+      "subtitle": "Step 1 of 3",
+      "fields": {
+        "fullName": "Full Name",
+        "dob": "Date of Birth",
+        "gender": "Gender",
+        "selectGender": "Select Gender",
+        "male": "Male",
+        "female": "Female",
+        "other": "Other",
+        "preferNotToSay": "Prefer not to say",
+        "phone": "Contact Number",
+        "email": "Email Address",
+        "country": "Country",
+        "selectCountry": "Select Country",
+        "referral": "How did you hear about us?"
+      },
+      "placeholders": {
+        "fullName": "Enter your full name",
+        "phone": "+012 345 6789",
+        "email": "your.email@example.com"
+      },
+      "buttons": {
+        "next": "Continue to Medical Information"
+      }
+    },
+
+    "step2": {
+      "title": "Medical Information",
+      "subtitle": "Step 2 of 3 - Share your medical details",
+
+      "department": {
+        "label": "Treatment Department / Specialty",
+        "placeholder": "Select a Treatment Department or Specialty",
+        "help": "Select the medical specialty for your treatment needs",
+        "options": {
+          "cardiology": "Cardiology & Cardiac Surgery",
+          "orthopedics": "Orthopedics & Joint Replacement",
+          "neurology": "Neurology & Neurosurgery",
+          "oncology": "Oncology & Hematology",
+          "gastroenterology": "Gastroenterology",
+          "nephrology": "Nephrology & Urology",
+          "fertility": "Fertility & Reproductive Medicine",
+          "dental": "Dental Care & Oral Surgery",
+          "ayurveda": "Ayurveda & Integrative Medicine",
+          "notSure": "Not Sure - Need Guidance"
+        }
+      },
+
+      "condition": {
+        "label": "Specific Medical Condition / Diagnosis",
+        "help": "If you have a diagnosed condition, please specify",
+        "placeholder": "e.g., Coronary artery disease, Knee osteoarthritis, Breast cancer, Type 2 diabetes",
+        "note": "This helps us coordinate with appropriate specialists for case review"
+      },
+
+      "history": {
+        "label": "Medical History & Treatment Requirements",
+        "hint": "Minimum 10 characters required",
+        "placeholder": "Please provide details about:\n• Current symptoms and duration\n• Previous medical diagnoses\n• Current medications and dosages\n• Past surgeries, treatments, or hospitalizations\n• Results of recent medical tests\n• Any known allergies or adverse reactions\n• Family medical history (if relevant)\n• Specific treatment requirements or preferences",
+        "characters": "characters",
+        "moreNeeded": "more characters needed",
+        "minimumSatisfied": "Minimum length satisfied",
+        "help": "Detailed information helps in case review coordination with hospitals"
+      },
+
+      "upload": {
+        "title": "Medical Reports & Documents",
+        "subtitle": "Upload relevant medical files for case review (Optional)",
+        "hint": "Max 10MB per file • Secure and confidential",
+        "uploadTitle": "Upload Medical Documents",
+        "uploadHelp": "Click to upload or drag & drop your medical files",
+        "reports": "Medical Reports",
+        "prescriptions": "Prescriptions",
+        "testResults": "Test Results",
+        "uploadedCount": "Uploaded Documents",
+        "uploadedNow": "Uploaded now",
+        "removeFile": "Remove file",
+        "note": "Medical details are shared with appropriate partner hospitals and specialists for evaluation as part of our case review coordination."
+      },
+
+      "confidentiality": "Your medical information is handled confidentially for care coordination",
+
+      "buttons": {
+        "back": "Back to Personal Details",
+        "next": "Review & Submit"
+      }
+    },
+
+    "step3": {
+      "title": "Review & Submit Medical Enquiry",
+      "subtitle": "Please review your information before submitting for case review coordination",
+      "personal": "Patient Information",
+      "medical": "Medical Information",
+      "personalSubtitle": "Personal Details",
+      "medicalSubtitle": "Treatment Details",
+      "truncatedNote": "(Truncated preview)",
+      "uploadedFiles": "Uploaded Medical Documents",
+      "uploadedFilesCount": "file(s) attached",
+
+      "consent": {
+        "title": "Consent & Agreements",
+        "subtitle": "Required for case review coordination",
+        "privacyTitle": "Privacy Consent",
+        "privacyText": "I consent to MedEminence collecting and processing my personal and medical information for the purpose of medical case review coordination. I understand this information will be shared only with authorized healthcare providers for care coordination purposes.",
+        "communicationTitle": "Communication Consent (Optional)",
+        "communicationText": "I agree to receive updates regarding my medical case review and coordination via email and phone.",
+        "required": "Required to proceed",
+        "optional": "Optional",
+        "privacyError": "You must accept the privacy consent to submit your enquiry"
+      },
+
+      "disclaimer": {
+        "title": "Important Medical Disclaimer",
+        "text": "MedEminence is a medical tourism facilitation and healthcare coordination platform. We do not provide medical advice, diagnosis, or treatment. All clinical decisions and treatment plans are determined exclusively by licensed healthcare providers. Information on this website is for general informational purposes only and does not constitute medical advice."
+      },
+
+      "security": "Secure submission to: info@medeminence.com",
+
+      "buttons": {
+        "edit": "Edit Information",
+        "submit": "Submit Medical Enquiry",
+        "submitting": "Submitting..."
+      }
+    }
+  }
+}

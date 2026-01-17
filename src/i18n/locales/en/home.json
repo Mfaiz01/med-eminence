@@ -1,0 +1,159 @@
+{
+  "hero": {
+    "title": "Trusted Medical Tourism Facilitation for International Patients",
+    "subtitle": "MedEminence is a medical tourism facilitation platform that assists international patients in accessing timely, coordinated healthcare services through accredited hospitals and licensed medical professionals in India.",
+    "description": "",
+    "ctaPrimary": "Submit Your Medical Enquiry Today",
+    "ctaSecondary": "Our Services"
+  },
+
+  "about": {
+    "problemTitle": "About MedEminence",
+    "problemHeadline": "MedEminence is a medical tourism facilitation and healthcare coordination platform focused on assisting international patients seeking treatment in India.",
+    "problemDescription": "We work as a non-clinical intermediary, supporting patients throughout their healthcare journey by coordinating with accredited hospitals, licensed medical professionals, and trusted healthcare service providers. Our role is to simplify complex cross-border healthcare processes by offering structured coordination, transparent communication, and logistical support.",
+    "icons": {
+      "global": "Network",
+      "network": "Global",
+      "experienced": "Licensed",
+      "specialists": "Professionals",
+      "timely": "Timely",
+      "access": "Access",
+      "endToEnd": "Structured",
+      "support": "Coordination"
+    }
+  },
+
+  "services": {
+    "title": "Our Services",
+    "headline": "Comprehensive healthcare coordination and travel support for international patients",
+    "items": {
+      "caseReview": {
+        "title": "Medical Case Review Coordination",
+        "desc": "We assist patients in securely sharing medical reports and treatment requirements with appropriate hospitals and licensed specialists for review."
+      },
+      "hospitalMatch": {
+        "title": "Hospital & Specialist Identification",
+        "desc": "Based on the patient's medical needs, we coordinate with accredited hospitals and qualified medical professionals."
+      },
+      "cost": {
+        "title": "Travel Planning Support",
+        "desc": "Assistance with flight planning, airport transfers, and local transportation related to treatment travel."
+      },
+      "visa": {
+        "title": "Accommodation Coordination",
+        "desc": "Support in arranging accommodation near hospitals for patients and accompanying family members."
+      },
+      "travel": {
+        "title": "Local Assistance During Stay",
+        "desc": "On-ground coordination including hospital navigation assistance and logistical support."
+      },
+      "care": {
+        "title": "Post-Treatment Follow-Up Coordination",
+        "desc": "Assistance with sharing medical reports and coordinating follow-up consultations after discharge."
+      }
+    }
+  },
+
+  "cta": {
+    "title": "Take The First Step",
+    "headline": "Ready for Timely Medical Care?",
+    "description": "Don't let waiting lists delay your treatment. Share your medical details with us, and our team will provide a personalized treatment plan, connect you with the right specialists, and handle all logistics for your medical journey abroad.",
+    "primary": "Submit Medical Enquiry",
+    "secondary": "Contact Our Team"
+  },
+
+  "india": {
+    "title": "Why Choose India?",
+    "desc": "India has emerged as a global healthcare destination due to its combination of advanced medical infrastructure, experienced healthcare professionals, and internationally accredited hospitals.",
+    "points": [
+      "Availability of advanced medical technologies",
+      "Experienced specialists across multiple disciplines",
+      "Efficient care pathways compared with many regions",
+      "Multilingual medical teams and international patient departments"
+    ],
+    "cta": "Explore Destinations"
+  },
+
+  "treatments": {
+    "title": "Treatments We Coordinate Access To",
+    "headline": "Treatments We Coordinate Access To",
+    "items": {
+      "cardiology": {
+        "title": "Cardiology & Cardiac Surgery",
+        "desc": "Advanced heart care procedures and surgical interventions."
+      },
+      "orthopedics": {
+        "title": "Orthopedics & Joint Replacement",
+        "desc": "Bone, joint, and musculoskeletal treatments and surgeries."
+      },
+      "oncology": {
+        "title": "Oncology & Hematology",
+        "desc": "Cancer care and blood disorder treatments."
+      },
+      "neurology": {
+        "title": "Neurology & Neurosurgery",
+        "desc": "Brain and nervous system treatments and surgeries."
+      },
+      "cosmetic": {
+        "title": "Dental Care & Oral Surgery",
+        "desc": "Dental treatments and oral surgical procedures."
+      },
+      "fertility": {
+        "title": "Fertility & Reproductive Medicine",
+        "desc": "Assisted reproductive technologies and fertility treatments."
+      }
+    },
+    "note": "Treatment availability depends on hospital capability, medical suitability, and applicable regulatory requirements.",
+    "cta": "View All Treatments"
+  },
+
+  "countries": {
+    "title": "Countries We Support",
+    "headline": "Countries We Support",
+    "list": {
+      "india": "India",
+      "turkey": "",
+      "thailand": "",
+      "uae": "UAE",
+      "germany": "",
+      "southKorea": "",
+      "nigeria": "Nigeria",
+      "kenya": "Kenya",
+      "egypt": "",
+      "morocco": "",
+      "libya": "",
+      "tanzania": "Tanzania"
+    },
+    "africa": "+ African Countries",
+    "note": "MedEminence facilitates access to medical treatment in India for international patients seeking coordinated care.",
+    "cta": "Learn About Support Regions"
+  },
+
+  "journey": {
+    "title": "Patient Journey",
+    "headline": "Your Path to Coordinated Care",
+    "steps": {
+      "1": {
+        "title": "Medical Information Submission",
+        "desc": "Patients securely share medical reports and treatment requirements through our enquiry form."
+      },
+      "2": {
+        "title": "Case Review Coordination",
+        "desc": "Medical details are shared with appropriate partner hospitals and specialists for evaluation."
+      },
+      "3": {
+        "title": "Treatment Pathway & Travel Support",
+        "desc": "We assist with treatment planning logistics, travel coordination, and accommodation near hospitals."
+      },
+      "4": {
+        "title": "Care Coordination During Stay",
+        "desc": "On-ground assistance during treatment at the hospital."
+      },
+      "5": {
+        "title": "Follow-Up Support",
+        "desc": "Coordination of post-treatment follow-up communication and support."
+      }
+    },
+    "cta": "View Detailed Patient Journey"
+  }
+}

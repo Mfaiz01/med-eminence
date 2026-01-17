@@ -1,0 +1,44 @@
+{
+  "header": {
+    "title": "Terms & Conditions",
+    "subtitle": "Legal terms for using MedEminence services"
+  },
+  "title": "Terms & Conditions",
+  "mainStatement": {
+    "title": "Service Description & Limitations",
+    "content": "MedEminence acts solely as a medical tourism facilitation and coordination platform. We do not provide medical advice, diagnosis, or treatment. All medical services are delivered by independent, licensed healthcare providers."
+  },
+  "points": {
+    "facilitation": {
+      "title": "Facilitation Only",
+      "content": "We coordinate access to healthcare services but do not provide medical treatment directly."
+    },
+    "limitations": {
+      "title": "Important Limitations",
+      "content": "Clinical decisions and treatment outcomes are determined by healthcare providers, not by MedEminence."
+    }
+  },
+  "serviceFees": {
+    "title": "Service Fee Structure",
+    "description": "MedEminence charges a separate service fee for non-medical coordination and support. This fee covers logistical and travel-related assistance only and does not include medical treatment costs.",
+    "points": {
+      "coordination": "Medical case review coordination",
+      "travel": "Travel planning and accommodation support",
+      "logistics": "Treatment pathway logistics",
+      "communication": "Communication coordination",
+      "followup": "Post-treatment follow-up support",
+      "excludes": "Does not include medical treatment costs"
+    }
+  },
+  "notice": {
+    "title": "Important Notice",
+    "content": "All medical treatment costs are paid directly to the hospital by the patient and are determined solely by the healthcare provider. MedEminence does not control or influence medical treatment pricing."
+  },
+  "agreement": {
+    "title": "Agreement to Terms",
+    "content": "By using MedEminence services, you acknowledge and agree to these Terms & Conditions. You understand that MedEminence is a facilitation platform and not a healthcare provider.",
+    "summary": "Summary:",
+    "summaryText": "MedEminence facilitates connections between patients and healthcare providers. We coordinate non-medical aspects of the healthcare journey. Medical decisions, treatments, and outcomes remain the responsibility of licensed healthcare professionals."
+  },
+  "footer": "These Terms & Conditions are effective as of the last update date and constitute the entire agreement between you and MedEminence regarding our facilitation services."
+}

@@ -1,0 +1,114 @@
+{
+  "header": {
+    "title": "About MedEminence",
+    "subtitle": "Your Trusted Healthcare Coordination Partner",
+    "breadcrumbHome": "Home",
+    "breadcrumbCurrent": "About Us"
+  },
+
+  "whoWeAre": {
+    "tag": "About Us",
+    "title": "About MedEminence",
+    "highlight": "MedEminence is a medical tourism facilitation and healthcare coordination platform focused on assisting international patients seeking treatment in India.",
+    "p1": "We work as a non-clinical intermediary, supporting patients throughout their healthcare journey by coordinating with accredited hospitals, licensed medical professionals, and trusted healthcare service providers.",
+    "p2": "Our role is to simplify complex cross-border healthcare processes by offering structured coordination, transparent communication, and logistical support. We assist patients and families who may face challenges related to distance, language, unfamiliar healthcare systems, and travel planning."
+  },
+
+  "valuesIcons": {
+    "global": "Network",
+    "verified": "Accredited",
+    "timely": "Timely",
+    "support": "Structured"
+  },
+
+  "stats": {
+    "patients": {
+      "label": "Coordination Focus",
+      "sub": "Non-clinical facilitation"
+    },
+    "hospitals": {
+      "label": "Partner Standards",
+      "sub": "Accredited institutions"
+    },
+    "specialties": {
+      "label": "Clinical Review",
+      "sub": "By licensed professionals"
+    },
+    "satisfaction": {
+      "label": "Our Role",
+      "sub": "Coordination partner only"
+    }
+  },
+
+  "purpose": {
+    "tag": "Our Role",
+    "title": "What We Do & What We Do Not Do",
+    "desc": "MedEminence collaborates only with hospitals and healthcare providers that meet recognized accreditation, regulatory, and professional standards. Every medical case is reviewed directly by the healthcare provider, ensuring that clinical decisions remain solely in the hands of qualified professionals."
+  },
+
+  "whatWeDo": {
+    "title": "What We Do",
+    "items": [
+      "Coordinate medical case reviews with hospitals and specialists",
+      "Assist with treatment pathway planning and travel logistics",
+      "Support accommodation and local arrangements near hospitals",
+      "Facilitate communication between patients and healthcare providers"
+    ]
+  },
+
+  "whatWeDoNot": {
+    "title": "What We Do Not Do (Non-Clinical Disclaimer)",
+    "desc": "MedEminence does not provide medical diagnosis, prescriptions, or treatment. All clinical decisions, treatment plans, and medical outcomes are determined exclusively by licensed healthcare providers."
+  },
+
+  "coreValues": {
+    "title": "Why Choose MedEminence",
+    "subtitle": "Our Coordination Approach",
+    "items": {
+      "timeliness": {
+        "title": "Structured Facilitation",
+        "desc": "Ethical and organized healthcare coordination model"
+      },
+      "transparency": {
+        "title": "Accredited Partnerships",
+        "desc": "Collaboration with recognized hospitals and licensed professionals"
+      },
+      "patient": {
+        "title": "Transparent Coordination",
+        "desc": "Clear non-clinical support model with defined scope"
+      },
+      "quality": {
+        "title": "Patient-Focused Support",
+        "desc": "Dedicated communication and assistance throughout the journey"
+      },
+      "privacy": {
+        "title": "Clear Separation",
+        "desc": "Medical decisions remain with healthcare providers only"
+      },
+      "support": {
+        "title": "Coordination Partner",
+        "desc": "We act as a facilitation platform, not a healthcare provider"
+      }
+    }
+  },
+
+  "cta": {
+    "tag": "Ready to Begin?",
+    "title": "Start Your Coordinated Healthcare Journey",
+    "desc": "Share your medical details for structured coordination with accredited healthcare providers in India.",
+    "primary": "Submit Medical Enquiry",
+    "secondary": "Contact Our Team"
+  },
+
+  "whyChoose": {
+    "title": "Our Coordination Commitment",
+    "points": [
+      "Structured and ethical healthcare facilitation",
+      "Collaboration with accredited hospitals and licensed professionals",
+      "Transparent, non-clinical coordination model",
+      "Patient-focused communication and support",
+      "Clear separation between medical decision-making and facilitation services"
+    ],
+    "cta": "Learn More About Our Services"
+  }
+}

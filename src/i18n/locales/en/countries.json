@@ -1,0 +1,186 @@
+{
+  "header": {
+    "title": "Countries We Support",
+    "subtitle": "MedEminence facilitates access to medical treatment in India for international patients seeking coordinated care",
+    "breadcrumbHome": "Home",
+    "breadcrumbCurrent": "Countries We Support"
+  },
+
+  "intro": {
+    "tag": "Countries We Support",
+    "title": "Countries We Support",
+    "desc": "MedEminence provides healthcare coordination services for international patients seeking treatment in India. Our focus is on facilitating access to accredited hospitals and licensed medical professionals in India."
+  },
+
+  "primaryRegions": {
+    "title": "Primary Patient Regions",
+    "regions": [
+      {
+        "name": "South Asia",
+        "countries": ["Bangladesh", "Afghanistan", "Nepal", "Sri Lanka"],
+        "icon": "fa-globe-asia",
+        "color": "primary",
+        "hospitalCount": 45,
+        "specialistCount": 300,
+        "services": ["Cardiology", "Orthopedics", "Oncology", "Neurology"],
+        "processingTime": "3-5 days",
+        "supportLevel": "full"
+      },
+      {
+        "name": "Middle East",
+        "countries": ["UAE", "Saudi Arabia", "Oman", "Kuwait", "Qatar", "Iraq", "Yemen"],
+        "icon": "fa-mosque",
+        "color": "primary",
+        "hospitalCount": 55,
+        "specialistCount": 350,
+        "services": ["Cardiac Surgery", "Transplants", "Cancer Care", "Fertility"],
+        "processingTime": "5-7 days",
+        "supportLevel": "full"
+      },
+      {
+        "name": "Africa",
+        "countries": ["Nigeria", "Kenya", "Ghana", "Ethiopia", "Tanzania", "Uganda", "Zambia", "Zimbabwe"],
+        "icon": "fa-globe-africa",
+        "color": "primary",
+        "hospitalCount": 60,
+        "specialistCount": 280,
+        "services": ["Pediatrics", "General Surgery", "Urology", "Dermatology"],
+        "processingTime": "4-6 days",
+        "supportLevel": "full"
+      }
+    ]
+  },
+
+  "selectiveRegions": {
+    "title": "Selective Support Regions",
+    "desc": "Support from selective regions is evaluated based on medical urgency, visa feasibility, and treatment requirements.",
+    "regions": [
+      {
+        "name": "Europe",
+        "countries": ["Romania", "Bulgaria", "Serbia", "Greece", "Baltic States"],
+        "icon": "fa-globe-europe",
+        "color": "secondary",
+        "hospitalCount": 35,
+        "specialistCount": 200,
+        "services": ["Specialized Surgery", "Rehabilitation", "Wellness Programs"],
+        "processingTime": "7-10 days",
+        "supportLevel": "selective"
+      },
+      {
+        "name": "North America",
+        "countries": ["USA", "Canada"],
+        "icon": "fa-globe-americas",
+        "color": "secondary",
+        "hospitalCount": 40,
+        "specialistCount": 250,
+        "services": ["Complex Procedures", "Second Opinions", "Follow-up Care"],
+        "processingTime": "10-14 days",
+        "supportLevel": "selective"
+      }
+    ]
+  },
+
+  "countriesList": {
+    "title": "Browse Countries by Region",
+    "subtitle": "Click on any country to view detailed information and available services",
+    "searchPlaceholder": "Search countries or regions...",
+    "filterAll": "All Regions",
+    "filterMiddleEast": "Middle East",
+    "filterAfrica": "Africa",
+    "filterAsia": "Asia",
+    "filterEurope": "Europe",
+    "filterAmericas": "Americas",
+    "viewDetails": "View Details",
+    "fullSupport": "Full Support",
+    "selectiveSupport": "Selective Support",
+    "hospitals": "Hospitals",
+    "specialists": "Specialists",
+    "services": "Available Services",
+    "processingTime": "Processing Time"
+  },
+
+  "comparison": {
+    "title": "Country Comparison",
+    "subtitle": "Compare key metrics across different regions",
+    "columns": {
+      "country": "Country",
+      "region": "Region",
+      "support": "Support Level",
+      "hospitals": "Hospitals",
+      "processing": "Processing Time",
+      "visa": "Visa Requirements",
+      "action": "Action"
+    },
+    "compareBtn": "Compare",
+    "visaRequired": "Medical Visa Required",
+    "visaOnArrival": "Visa on Arrival Available",
+    "eVisa": "eVisa Available"
+  },
+
+  "stats": {
+    "countries": "50+",
+    "countriesLabel": "Countries",
+    "hospitals": "200+",
+    "hospitalsLabel": "Partner Hospitals",
+    "specialists": "1000+",
+    "specialistsLabel": "Medical Specialists",
+    "support": "24/7",
+    "supportLabel": "Support"
+  },
+
+  "whyIndia": {
+    "tag": "Treatment Destination",
+    "title": "India as Healthcare Destination",
+    "desc": "India has emerged as a global healthcare destination due to its combination of advanced medical infrastructure, experienced healthcare professionals, and internationally accredited hospitals.",
+    "points": [
+      "Availability of advanced medical technologies",
+      "Experienced specialists across multiple disciplines",
+      "Efficient care pathways compared with many regions",
+      "Multilingual medical teams and international patient departments"
+    ],
+    "disclaimer": "Timelines and outcomes vary based on medical condition, hospital availability, and regulatory factors.",
+    "cta": "Learn More About India"
+  },
+
+  "coordinationInfo": {
+    "title": "Our Coordination Role",
+    "points": [
+      "Facilitating access to healthcare providers in India",
+      "Coordinating medical case reviews and evaluations",
+      "Supporting travel and logistical arrangements",
+      "Maintaining clear separation from clinical decision-making",
+      "Focusing on non-medical coordination and support"
+    ]
+  },
+
+  "cta": {
+    "tag": "Start Coordination",
+    "title": "Begin Your Coordinated Healthcare Journey",
+    "desc": "Share your medical information for structured coordination with accredited healthcare providers in India.",
+    "primary": "Submit Medical Enquiry",
+    "secondary": "Contact Our Team"
+  },
+
+  "process": {
+    "tag": "Coordination Process",
+    "title": "Our Support Process",
+    "steps": [
+      {
+        "title": "Initial Enquiry",
+        "desc": "Submit medical details and treatment requirements"
+      },
+      {
+        "title": "Feasibility Assessment",
+        "desc": "Evaluate medical suitability and travel feasibility"
+      },
+      {
+        "title": "Coordination Planning",
+        "desc": "Plan healthcare coordination and logistics"
+      },
+      {
+        "title": "Ongoing Support",
+        "desc": "Provide continuous coordination throughout the journey"
+      }
+    ]
+  }
+}

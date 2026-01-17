@@ -1,0 +1,164 @@
+{
+  "header": {
+    "title": "Why Choose MedEminence",
+    "subtitle": "Structured healthcare facilitation and coordination for international patients",
+    "breadcrumbHome": "Home",
+    "breadcrumbCurrent": "Why Choose MedEminence"
+  },
+
+  "intro": {
+    "tag": "Our Approach",
+    "title": "Why Choose MedEminence",
+    "desc": "MedEminence provides structured healthcare coordination focused on facilitating access to accredited hospitals and licensed medical professionals while maintaining clear separation from clinical decision-making."
+  },
+
+  "differentiators": {
+    "timely": {
+      "title": "Structured and Ethical Facilitation",
+      "desc": "Organized healthcare coordination with clear ethical guidelines and processes"
+    },
+    "verified": {
+      "title": "Accredited Hospital Collaboration",
+      "desc": "Coordination with recognized hospitals that meet accreditation and regulatory standards"
+    },
+    "pricing": {
+      "title": "Transparent Non-Clinical Model",
+      "desc": "Clear separation between coordination services and medical treatment costs"
+    },
+    "personalized": {
+      "title": "Patient-Focused Coordination",
+      "desc": "Dedicated communication and support throughout the healthcare journey"
+    }
+  },
+
+  "features": {
+    "tag": "Coordination Features",
+    "title": "Our Coordination Approach",
+    "subtitle": "Focused on facilitating access to healthcare while maintaining our non-clinical intermediary role",
+    "items": [
+      {
+        "title": "Structured Healthcare Facilitation",
+        "desc": "Ethical and organized coordination model with defined processes"
+      },
+      {
+        "title": "Accredited Hospital Coordination",
+        "desc": "Collaboration with hospitals meeting recognized accreditation standards"
+      },
+      {
+        "title": "Transparent Coordination Model",
+        "desc": "Clear non-clinical support with defined scope and limitations"
+      },
+      {
+        "title": "Patient-Focused Communication",
+        "desc": "Dedicated support and clear communication throughout the journey"
+      },
+      {
+        "title": "Clear Role Separation",
+        "desc": "Medical decisions remain with healthcare providers only"
+      },
+      {
+        "title": "Coordination Partner Focus",
+        "desc": "Acting as facilitation platform, not as healthcare provider"
+      }
+    ]
+  },
+
+  "comparison": {
+    "tag": "Coordination Model",
+    "title": "Our Coordination Approach",
+    "subtitle": "Understanding our role as a non-clinical intermediary in healthcare access",
+    "table": {
+      "feature": "Aspect",
+      "medeminence": "MedEminence Role",
+      "traditional": "Clinical Provider Role"
+    },
+    "rows": [
+      {
+        "feature": "Medical Decision-Making",
+        "med": "No involvement - decisions by healthcare providers",
+        "traditional": "Direct responsibility for medical decisions"
+      },
+      {
+        "feature": "Treatment Provision",
+        "med": "No treatment provided - coordination only",
+        "traditional": "Direct delivery of medical treatment"
+      },
+      {
+        "feature": "Service Focus",
+        "med": "Non-medical coordination and logistical support",
+        "traditional": "Clinical care and medical procedures"
+      },
+      {
+        "feature": "Responsibility",
+        "med": "Coordination and facilitation services",
+        "traditional": "Clinical outcomes and medical care"
+      },
+      {
+        "feature": "Information Handling",
+        "med": "Coordination and sharing with authorized providers",
+        "traditional": "Clinical evaluation and medical use"
+      },
+      {
+        "feature": "Patient Relationship",
+        "med": "Coordination partner relationship",
+        "traditional": "Doctor-patient clinical relationship"
+      }
+    ]
+  },
+
+  "trust": {
+    "title": "Our Coordination Commitment",
+    "subtitle": "Clear definition of our role and services to ensure appropriate expectations",
+    "badges": [
+      {
+        "title": "Non-Clinical Intermediary",
+        "desc": "Acting as coordination platform between patients and healthcare providers"
+      },
+      {
+        "title": "Accreditation Focus",
+        "desc": "Coordinating with hospitals meeting recognized accreditation standards"
+      },
+      {
+        "title": "Transparent Role Definition",
+        "desc": "Clear communication about coordination services and limitations"
+      },
+      {
+        "title": "Patient Information Protection",
+        "desc": "Confidential handling of information shared only for coordination purposes"
+      }
+    ],
+    "stats": {
+      "patients": "Coordination Focus",
+      "hospitals": "Accredited Partners",
+      "response": "Coordination Support",
+      "satisfaction": "Clear Role Definition"
+    }
+  },
+
+  "cta": {
+    "tag": "Start Coordination",
+    "title": "Begin Your Coordinated Healthcare Journey",
+    "desc": "Share your medical information for structured coordination with accredited healthcare providers in India",
+    "primary": "Submit Medical Enquiry",
+    "secondary": "Contact Our Team"
+  },
+
+  "faq": {
+    "title": "Coordination Information",
+    "items": [
+      {
+        "q": "What is MedEminence's role?",
+        "a": "We act as a medical tourism facilitation and coordination platform, not as a healthcare provider."
+      },
+      {
+        "q": "Who makes medical decisions?",
+        "a": "All clinical decisions are made exclusively by licensed healthcare providers."
+      },
+      {
+        "q": "What services do you provide?",
+        "a": "We provide non-medical coordination and logistical support for accessing healthcare in India."
+      }
+    ],
+    "cta": "Contact for Coordination Details"
+  }
+}
