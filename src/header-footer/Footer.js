@@ -168,14 +168,22 @@ const Footer = () => {
                                 &copy; <span className="text-decoration-underline">Medeminence</span>. {t("footer.copyright")}
                             </p>
                         </div>
-                        
+
                         {/* Right Column - Design Credit */}
                         <div className="col-12 col-md-6 order-2 order-md-2">
                             <p className="mb-0 text-center text-md-end" style={{ fontSize: "1.25rem" }}>
                                 {t("footer.designedBy")}{" "}
-                                <span className="text-decoration-underline">.veriteam software solutions private limited</span>
+                                <a
+                                    href="https://www.vssitcompany.com/" // change to your actual URL if different
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="text-decoration-underline text-reset"
+                                >
+                                    veriteam software solutions private limited
+                                </a>
                             </p>
                         </div>
+
                     </div>
                 </div>
             </div>
