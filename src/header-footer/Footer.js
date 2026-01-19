@@ -127,7 +127,7 @@ const Footer = () => {
                                 <b>{t("footer.importantLinks")}</b>
                             </h4>
                             <div className="d-flex flex-column justify-content-start">
-                                <a className="text-light mb-2" href="/medeminence"><i className="fa fa-angle-right me-2"></i>{t("nav.why")}</a>
+                                <a className="text-light mb-2" href="/medeminence" style={{textAlign: 'start'}}><i className="fa fa-angle-right me-2"></i>{t("nav.why")}</a>
                                 <a className="text-light mb-2" href="/patient-journey"><i className="fa fa-angle-right me-2"></i>{t("nav.journey")}</a>
                                 <a className="text-light mb-2" href="/medical-enquiry"><i className="fa fa-angle-right me-2"></i>{t("nav.enquiry")}</a>
                                 <a className="text-light mb-2" href="/privacy-policy"><i className="fa fa-angle-right me-2"></i>{t("nav.privacy")}</a>
